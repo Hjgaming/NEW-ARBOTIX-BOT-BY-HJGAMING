@@ -4,11 +4,11 @@ module.exports = {
 		protocol: 'https://', // https:// or http://
 		domain: 'ARBOTIX-NEW.hjgamingyt.repl.co', // website link without protocol ex. bot-website.tejas1794.repl.co
 		port: 3000,
-    cookieSecret: 's%3A432.D5egYRj1G7sJyfbyB7jDh7Gf' // Cookie secret | charaters used store client data
+    cookieSecret: '' // Cookie secret | charaters used store client data
 	},
   bot: {
     name: 'ARBOTIX BOT', // Bot Name
-    token: 'ODc4OTI5NjU0OTMxNjc3MTk1.YSIVBw.BHhQEc4K8oPGpK_f2fIQrYBZ330', // Bot token if showing Stats
+    token: 'BOT TOKEN', // Bot token if showing Stats
     logo: 'https://cdn.discordapp.com/attachments/890891716142444544/892427916279971890/IMG_20210928_203945.png', //Bot Logo used in embeds and favicon
     description: '1 - Emote-Manger, 2 - Moderation, 3 - Music, 4 - Info, 5 - Utilty, 6 - Suggestion', //description of your bot used in embed and website
     support: 'https://discord.gg/BZbPT2dyPk', // support server url of your bot
