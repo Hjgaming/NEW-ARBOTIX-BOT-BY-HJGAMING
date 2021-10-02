@@ -1,0 +1,5 @@
+mainprefix: "T?"
+defaultjoinmessage: "{user} Joined Invited By {Inviter} (Inviter Invites: {inv})"
+defaultleavemessage: "{user} Left, Invited by {inviter}"
+token: ""
+color: ""
