@@ -1,5 +1,5 @@
 const { MessageEmbed } = require('discord.js');
-const arrayUtils = require('../../utils/ArrayUtils');
+const arrayUtils = require('../../Utils/ArrayUtils');
 
 module.exports = {
 	name: 'queue',
