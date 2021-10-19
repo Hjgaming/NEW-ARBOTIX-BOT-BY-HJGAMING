@@ -13,6 +13,9 @@
 
 3- RUN YOUR BOT WITH NPM I AND NODE INDEX.JS.
 
+## REPL.IT USERS FORK THIS
+• [REPL.IT](https://replit.com/@HJGAMINGYT/arbotix-bot-code-by-hjgaming?v=1)
+
 ## CREDIT
 • HJ GAMING AND PARAS GAMING
 
