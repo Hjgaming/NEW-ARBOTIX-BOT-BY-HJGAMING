@@ -1,6 +1,6 @@
 const { MessageEmbed } = require('discord.js');
 const { porgressBar } = require('music-progress-bar');
-const { time2 } = require('../../utils/Utils.js');
+const { time2 } = require('../../Utils/Utils.js');
 
 module.exports = {
 	name: 'nowplaying',
