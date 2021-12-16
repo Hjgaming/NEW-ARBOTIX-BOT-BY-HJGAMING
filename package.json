@@ -56,7 +56,7 @@
   },
   "devDependencies": {},
   "scripts": {
-    "start": "npm build"
+    "start": "npm build",
      "web": "npm start"
   },
   "author": "",
