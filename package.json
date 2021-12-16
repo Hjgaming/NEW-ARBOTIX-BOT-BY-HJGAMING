@@ -49,8 +49,7 @@
     "snowflake-api": "^3.0.3",
     "twemoji-parser": "^13.1.0",
     "weky": "^2.0.7",
-    "ws": "^7.4.6",
-    "ytdl-core-discord": "^1.3.0"
+    "ws": "^7.4.6"
   },
   "engines": {
     "node": "12.0.0"
