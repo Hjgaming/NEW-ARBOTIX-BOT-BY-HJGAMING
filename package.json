@@ -57,7 +57,7 @@
   "devDependencies": {},
   "scripts": {
     "start": "npm build"
-     web: npm start
+     "web": "npm start"
   },
   "author": "",
   "license": "ISC"
